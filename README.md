@@ -1,7 +1,3 @@
-# Quantumlib
-
-<img width="100px" alt="Cirq logo" align="right" src=".assets/quantum-ai-vertical.svg">
-
 The [Quantum AI](https://quantumai.google) team and collaborators from all
 around the world maintain and develop open-source software projects for quantum
 computing. We build best-in-class libraries and utilities to advance research
@@ -59,7 +55,7 @@ Other projects include:
 *   [Unitary](https://github.com/quantumlib/unitary): A library exploring
     quantum computing concepts through games.
 
-## Get started with Quantum AI open-source software!
+## Get involved!
 
 We welcome contributions from the quantum research community! Everyone is
 invited to participate in our projects. To get up to speed quickly, explore our
