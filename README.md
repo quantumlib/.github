@@ -1,21 +1,21 @@
-# Welcome to Google Quantum AI's open-source projects
+# Welcome to Quantum AI's open-source projects
 
-Quantum AI and collaborators from all around the world maintain and develop
-many open-source software projects on GitHub. We build best-in-class libraries
-and utilities to advance applications research and error-correction research
-for the future of fault-tolerant quantum computing.
+The [Quantum AI](https://quantumai.google) team and collaborators from all
+around the world maintain and develop open-source software projects for quantum
+computing. We build best-in-class libraries and utilities to advance research
+into applications and error correction for the future of fault-tolerant quantum
+computing. Our open-source projects are found in repositories under the
+Quantumlib organization and elsewhere on GitHub.
 
 ## Repositories
 
-Quantum AI's open-source projects are found in repositories under the
-Quantumlib organization and elsewhere on GitHub. Our major efforts include the
-following:
+Our major efforts include the following:
 
 *   [Cirq](https://github.com/quantumlib/Cirq): A Python framework for
     creating, editing, manipulating, and running quantum circuits on hardware
     or in simulation.
 
-*   [OpenFermion](https://github.com/quantumlib/OpenFermion): An open-source
+*   [OpenFermion](https://github.com/quantumlib/OpenFermion): A framework
     library for compiling and translating problems in chemistry and materials
     science into quantum circuits.
 
@@ -31,8 +31,9 @@ following:
     stabilizer circuit simulator optimized for analyzing quantum stabilizer
     circuits and stabilizer-based error-correcting codes.
 
-*   [TensorFlow Quantum](https://github.com/tensorflow/quantum): An open-source
-    framework for hybrid quantum-classical machine learning.
+*   [TensorFlow Quantum](https://github.com/tensorflow/quantum): A
+    framework for hybrid quantum-classical machine learning using
+    [TensorFlow](https://tensorflow.org).
 
 Other projects include:
 
@@ -41,13 +42,17 @@ Other projects include:
     code decoding as a minimum weight matching problem.
 
 *   [ReCirq](https://github.com/quantumlib/ReCirq): A repository containing
-    research examples and published experiments leveraging Cirq.
+    research examples and published experiments that use Cirq.
+
+*   [Tensor Network Contraction Optimizer (TNCO)](
+    https://github.com/google-research/tnco): a high-performance tensor network
+    contraction path optimizer for C++ and Python.
 
 *   [Tesseract Decoder](https://github.com/quantumlib/tesseract-decoder): A
     specialized decoder built for quantum error correction research.
 
-*   [TypedUnits](https://github.com/quantumlib/TypedUnits): A specialized
-    library for managing units of measurement.
+*   [TypedUnits](https://github.com/quantumlib/TypedUnits): A utility
+    library for working with units of measurement.
 
 *   [Unitary](https://github.com/quantumlib/unitary): A library exploring
     quantum computing concepts through games.
