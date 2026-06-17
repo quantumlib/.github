@@ -1,4 +1,6 @@
-# Welcome to Quantum AI's open-source projects
+# Quantumlib
+
+<img width="100px" alt="Cirq logo" align="right" src=".assets/quantum-ai-vertical.svg">
 
 The [Quantum AI](https://quantumai.google) team and collaborators from all
 around the world maintain and develop open-source software projects for quantum
