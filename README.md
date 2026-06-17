@@ -17,13 +17,13 @@ Our major efforts include the following:
     library for compiling and translating problems in chemistry and materials
     science into quantum circuits.
 
-*   [Qualtran](https://github.com/quantumlib/Qualtran): A library of
-    blueprinted fault-tolerant algorithms and advanced resource estimation
-    tools used to cost out physical resource requirements.
-
 *   [qsim](https://github.com/quantumlib/qsim): A fast Schrödinger state-vector
     simulator written in C++  and Python that integrates with Cirq to handle
     large-scale classical simulations using vector instructions.
+
+*   [Qualtran](https://github.com/quantumlib/Qualtran): A library of
+    blueprinted fault-tolerant algorithms and advanced resource estimation
+    tools used to cost out physical resource requirements.
 
 *   [Stim](https://github.com/quantumlib/Stim): A high-performance, fast
     stabilizer circuit simulator optimized for analyzing quantum stabilizer
